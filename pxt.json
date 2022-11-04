@@ -1,5 +1,5 @@
 {
-    "name": "Tiby:Bit_2WheelsRobot_Yahboom",
+    "name": "Tiny:Bit_2Wheels_Robot_Yahboom",
     "description": "",
     "dependencies": {
         "core": "*",
